@@ -1,0 +1,1354 @@
+﻿Log file open, 05/04/19 18:55:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarpStrikeTutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278121
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.077s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Nitrogen420 -epicuserid=b66ed01d48fe491c8d6e3431790f8c14 -epiclocale=en-US
+LogInit: Base Directory: D:/Unreal Engines/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:084][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:085][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.04-15.55.52:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-15.55.52:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.04-15.55.52:092][  0]LogHAL: Display: Platform has ~ 32 GB [34286804992 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.04-15.55.52:092][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.04-15.55.52:092][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.04-15.55.52:092][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.04-15.55.52:093][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.04-15.55.52:093][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/WarpStrikeTutorial/Saved/Config/Windows/Engine.ini]
+[2019.05.04-15.55.52:093][  0]LogInit: Computer: DESKTOP-6LTGJLU
+[2019.05.04-15.55.52:093][  0]LogInit: User: PC
+[2019.05.04-15.55.52:093][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.04-15.55.52:093][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.04-15.55.52:093][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.05.04-15.55.52:093][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.04-15.55.52:093][  0]LogMemory: Process Physical Memory: 102.52 MB used, 102.52 MB peak
+[2019.05.04-15.55.52:093][  0]LogMemory: Process Virtual Memory: 91.23 MB used, 91.23 MB peak
+[2019.05.04-15.55.52:093][  0]LogMemory: Physical Memory: 13680.27 MB used,  19018.17 MB free, 32698.45 MB total
+[2019.05.04-15.55.52:093][  0]LogMemory: Virtual Memory: 4635.65 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.04-15.55.52:109][  0]LogInit: Using OS detected language (en-US).
+[2019.05.04-15.55.52:109][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.04-15.55.52:111][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.04-15.55.52:395][  0]LogStreaming: Display: Took  0.285s to InitEngineTextLocalization.
+[2019.05.04-15.55.52:395][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.04-15.55.52:421][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.04-15.55.52:421][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.04-15.55.52:761][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.04-15.55.52:761][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.04-15.55.52:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.05.04-15.55.52:810][  0]LogD3D11RHI:       11127/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.04-15.55.52:811][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.04-15.55.52:812][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.04-15.55.52:812][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.04-15.55.52:823][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.04-15.55.52:823][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.04-15.55.52:823][  0]LogWindows: EnumDisplayDevices:
+[2019.05.04-15.55.52:823][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.05.04-15.55.52:823][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.05.04-15.55.52:824][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.05.04-15.55.52:824][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.05.04-15.55.52:824][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.04-15.55.52:824][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.05.04-15.55.52:824][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.05.04-15.55.52:824][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.05.04-15.55.52:824][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.05.04-15.55.52:856][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.04-15.55.52:879][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.04-15.55.53:224][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.04-15.55.53:236][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.04-15.55.53:246][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.04-15.55.53:257][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.04-15.55.53:267][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.04-15.55.53:278][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.04-15.55.53:288][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.04-15.55.53:298][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.04-15.55.53:303][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:354][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:355][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:355][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.04-15.55.53:356][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.04-15.55.53:409][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.04-15.55.53:409][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.04-15.55.53:425][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.04-15.55.53:425][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.04-15.55.53:434][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.04-15.55.53:443][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.04-15.55.53:452][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.04-15.55.53:462][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.04-15.55.53:500][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.04-15.55.53:500][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.04-15.55.53:500][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.04-15.55.53:553][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Unreal Projects/WarpStrikeTutorial/Intermediate/Shaders/WorkingDirectory/27748/).
+[2019.05.04-15.55.53:553][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/'.
+[2019.05.04-15.55.53:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.04-15.55.53:555][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.04-15.55.53:555][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.04-15.55.53:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.04-15.55.54:024][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.04-15.55.54:024][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.04-15.55.54:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/WarpStrikeTutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.04-15.55.54:025][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.04-15.55.54:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/WarpStrikeTutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.04-15.55.54:025][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.04-15.55.54:036][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.04-15.55.54:039][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.04-15.55.54:051][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.04-15.55.54:051][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.04-15.55.54:051][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.04-15.55.54:068][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.04-15.55.54:070][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.04-15.55.54:071][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.04-15.55.54:163][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2019.05.04-15.55.54:425][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-15.55.54:548][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.04-15.55.54:551][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.04-15.55.54:551][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.04-15.55.54:551][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.04-15.55.54:551][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.04-15.55.54:564][  0]LogNetVersion: WarpStrikeTutorial 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 621218375)
+[2019.05.04-15.55.54:974][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.085202 seconds
+[2019.05.04-15.55.54:978][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.04-15.55.54:978][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.04-15.55.54:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.04-15.55.55:905][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.04-15.55.55:918][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.04-15.55.56:706][  0]SourceControl: Source control is disabled
+[2019.05.04-15.55.56:706][  0]SourceControl: Source control is disabled
+[2019.05.04-15.55.56:707][  0]SourceControl: Source control is disabled
+[2019.05.04-15.55.56:708][  0]SourceControl: Source control is disabled
+[2019.05.04-15.55.56:868][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.04-15.55.56:973][  0]LogOcInput: OculusInput pre-init called
+[2019.05.04-15.55.58:702][  0]LogEngine: Initializing Engine...
+[2019.05.04-15.55.58:703][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.04-15.55.58:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.04-15.55.58:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.04-15.55.58:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.04-15.55.58:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.04-15.55.58:896][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.04-15.55.58:910][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.04-15.55.58:946][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-15.55.58:963][  0]LogInit: FAudioDevice initialized.
+[2019.05.04-15.55.58:963][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.04-15.55.59:028][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.04-15.55.59:036][  0]LogInit: Texture streaming: Enabled
+[2019.05.04-15.55.59:052][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.04-15.55.59:067][  0]LogInit: Transaction tracking system initialized
+[2019.05.04-15.55.59:091][  0]BlueprintLog: New page: Editor Load
+[2019.05.04-15.55.59:164][  0]LocalizationService: Localization service is disabled
+[2019.05.04-15.55.59:510][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.04-15.55.59:510][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.04-15.55.59:510][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.04-15.55.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.04-15.55.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.04-15.55.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.04-15.55.59:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.04-15.55.59:619][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/WarpStrikeTutorial/Content/' took 0.02s
+[2019.05.04-15.56.01:035][  0]SourceControl: Source control is disabled
+[2019.05.04-15.56.01:035][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/WarpStrikeTutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.04-15.56.01:036][  0]LightingResults: New page: Lighting Build
+[2019.05.04-15.56.01:038][  0]MapCheck: New page: Map Check
+[2019.05.04-15.56.01:038][  0]LightingResults: New page: Lighting Build
+[2019.05.04-15.56.01:335][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.04-15.56.01:341][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.04-15.56.01:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.04-15.56.01:361][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.05.04-15.56.01:361][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.326
+[2019.05.04-15.56.01:445][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-15.56.01:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-15.56.01:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-15.56.01:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-15.56.01:467][  0]LogCollectionManager: Loaded 0 collections in 0.002107 seconds
+[2019.05.04-15.56.01:506][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/WarpStrikeTutorial/Saved/Collections/' took 0.01s
+[2019.05.04-15.56.01:506][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/WarpStrikeTutorial/Content/Developers/PC/Collections/' took 0.01s
+[2019.05.04-15.56.01:506][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/WarpStrikeTutorial/Content/Collections/' took 0.01s
+[2019.05.04-15.56.01:506][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.04-15.56.01:513][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2709 classes and 653 folders.
+[2019.05.04-15.56.01:520][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.04-15.56.01:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:533][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:534][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:534][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:535][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-15.56.01:613][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.04-15.56.01:618][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.04-15.56.01:675][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.04-15.56.01:677][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.04-15.56.01:682][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.04-15.56.01:746][  0]LogRenderer: Reallocating scene render targets to support 1180x580 Format 10 NumSamples 1 (Frame:1).
+[2019.05.04-15.56.01:834][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.04-15.56.01:834][  0]LogLoad: (Engine Initialization) Total time: 12.24 seconds
+[2019.05.04-15.56.01:834][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.04-15.56.01:911][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2019.05.04-15.56.01:953][  0]LogRenderer: Reallocating scene render targets to support 1180x596 Format 10 NumSamples 1 (Frame:4).
+[2019.05.04-15.56.01:953][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.04-15.56.01:978][  1]LogAssetRegistry: Asset discovery search completed in 7.8373 seconds
+[2019.05.04-15.56.01:979][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.04-15.56.01:979][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.05.04-15.56.10:297][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.05.04-15.56.10:644][441]Cmd: DELETE
+[2019.05.04-15.56.10:644][441]Cmd: ACTOR DELETE
+[2019.05.04-15.56.10:647][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.10:665][441]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.05.04-15.56.10:865][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.05.04-15.56.10:944][466]Cmd: DELETE
+[2019.05.04-15.56.10:944][466]Cmd: ACTOR DELETE
+[2019.05.04-15.56.10:946][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.10:963][466]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.05.04-15.56.11:224][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.05.04-15.56.11:312][496]Cmd: DELETE
+[2019.05.04-15.56.11:312][496]Cmd: ACTOR DELETE
+[2019.05.04-15.56.11:314][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.11:332][496]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.05.04-15.56.11:544][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.04-15.56.11:900][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.05.04-15.56.11:981][565]Cmd: DELETE
+[2019.05.04-15.56.11:981][565]Cmd: ACTOR DELETE
+[2019.05.04-15.56.11:982][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.12:001][565]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.05.04-15.56.12:202][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.05.04-15.56.12:344][602]Cmd: DELETE
+[2019.05.04-15.56.12:344][602]Cmd: ACTOR DELETE
+[2019.05.04-15.56.12:345][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.12:363][602]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.05.04-15.56.12:580][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.05.04-15.56.12:871][659]Cmd: DELETE
+[2019.05.04-15.56.12:871][659]Cmd: ACTOR DELETE
+[2019.05.04-15.56.12:873][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-15.56.12:892][659]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.05.04-15.56.13:276][705]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.04-15.56.13:471][725]Cmd: DELETE
+[2019.05.04-15.56.13:471][725]Cmd: ACTOR DELETE
+[2019.05.04-15.56.13:473][725]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.05.04-15.56.13:491][725]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.05.04-15.56.14:415][836]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2019.05.04-15.56.14:553][851]Cmd: DELETE
+[2019.05.04-15.56.14:553][851]Cmd: ACTOR DELETE
+[2019.05.04-15.56.14:554][851]LogEditorActor: Deleted Actor: DocumentationActor
+[2019.05.04-15.56.14:570][851]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.05.04-15.56.15:213][928]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.04-15.56.15:552][964]Cmd: DELETE
+[2019.05.04-15.56.15:552][964]Cmd: ACTOR DELETE
+[2019.05.04-15.56.15:554][964]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.05.04-15.56.15:570][964]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.05.04-15.56.16:274][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.56.16:787][107]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.04-15.56.22:091][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.05.04-15.56.22:608][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall10)
+[2019.05.04-15.56.22:917][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2019.05.04-15.56.23:443][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall11)
+[2019.05.04-15.56.24:033][948]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall9)
+[2019.05.04-15.56.24:469][996]Cmd: TRANSACTION UNDO
+[2019.05.04-15.56.24:469][996]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.04-15.56.24:484][996]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.04-15.56.24:943][ 48]Cmd: TRANSACTION UNDO
+[2019.05.04-15.56.24:943][ 48]LogEditorTransaction: Undo Move Actors
+[2019.05.04-15.56.26:396][220]Cmd: TRANSACTION UNDO
+[2019.05.04-15.56.26:396][220]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.04-15.56.26:741][258]Cmd: TRANSACTION UNDO
+[2019.05.04-15.56.26:741][258]LogEditorTransaction: Undo Move Actors
+[2019.05.04-15.56.27:807][382]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall9)
+[2019.05.04-15.56.29:221][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2019.05.04-15.56.29:630][589]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall11)
+[2019.05.04-15.56.31:499][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.56.32:092][863]LogMaterial: Warning: Material /Game/M_Walls_Floors.M_Walls_Floors needed to have new flag set bUsedWithStaticLighting !
+[2019.05.04-15.56.32:094][863]LogMaterial: Display: Missing cached shader map for material M_Walls_Floors, compiling. 
+[2019.05.04-15.56.32:168][864]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.04-15.56.32:168][864]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.04-15.56.32:168][864]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.04-15.56.32:168][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.04-15.56.35:334][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.56.40:691][850]LogMaterial: Display: Missing cached shader map for material M_GodRay, compiling. 
+[2019.05.04-15.56.40:714][850]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.04-15.56.40:714][850]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.04-15.56.40:714][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.04-15.56.40:714][850]LogMaterial: Display: Missing cached shader map for material M_GodRay, compiling. 
+[2019.05.04-15.56.40:726][850]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.04-15.56.40:735][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay.BP_GodRay
+[2019.05.04-15.56.40:944][850]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.04-15.56.41:336][850]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.05.04-15.56.42:489][850]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.04-15.56.42:584][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.04-15.56.44:877][ 23]LogRenderer: Reallocating scene render targets to support 1220x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.04-15.56.48:577][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.56.52:328][840]LogSlate: Window 'BP_GodRay' being destroyed
+[2019.05.04-15.56.52:332][840]LogSlate: Window 'BP_GodRay' being destroyed
+[2019.05.04-15.57.04:287][195]Cmd: DELETE
+[2019.05.04-15.57.04:287][195]Cmd: ACTOR DELETE
+[2019.05.04-15.57.04:292][195]LogEditorActor: Deleted Actor: BP_GodRay_C
+[2019.05.04-15.57.04:317][195]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.05.04-15.57.04:506][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.57.09:933][693]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.04-15.57.10:677][693]LogMaterial: Display: Missing cached shader map for material M_GodRay, compiling. 
+[2019.05.04-15.57.10:682][693]LogMaterial: Warning: D:\Unreal Projects\WarpStrikeTutorial\Content\Weapon_Pack\Blueprints\Lightshaft\Lightshaft\M_GodRay.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.04-15.57.10:682][693]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.05.04-15.57.10:697][693]LogStaticMesh: Building static mesh SM_GodRay_Plane...
+[2019.05.04-15.57.10:699][693]LogStaticMesh: Built static mesh [0.00s] /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane
+[2019.05.04-15.57.16:186][136]LogSlate: Window 'Save Content' being destroyed
+[2019.05.04-15.57.16:229][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor" FILE="../../../../../Unreal Projects/WarpStrikeTutorial/Content/Floor.uasset" SILENT=true
+[2019.05.04-15.57.16:240][136]LogSavePackage: Moving '../../../../../Unreal Projects/WarpStrikeTutorial/Saved/Floor91B80846490559B1EB4C54AEF515E58F.tmp' to '../../../../../Unreal Projects/WarpStrikeTutorial/Content/Floor.uasset'
+[2019.05.04-15.57.16:258][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Walls_Floors" FILE="../../../../../Unreal Projects/WarpStrikeTutorial/Content/M_Walls_Floors.uasset" SILENT=true
+[2019.05.04-15.57.16:267][136]LogSavePackage: Moving '../../../../../Unreal Projects/WarpStrikeTutorial/Saved/M_Walls_FloorsB01C525C45F25F614EB6399E4240154A.tmp' to '../../../../../Unreal Projects/WarpStrikeTutorial/Content/M_Walls_Floors.uasset'
+[2019.05.04-15.57.16:414][136]LogSavePackage: Moving '../../../../../Unreal Projects/WarpStrikeTutorial/Saved/ThirdPersonExampleMap633BF9EA42EE20F5DC1DCCBC6D03E879.tmp' to '../../../../../Unreal Projects/WarpStrikeTutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.04-15.57.16:424][136]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.152
+[2019.05.04-15.57.17:352][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-15.57.18:860][420]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.04-15.57.18:882][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.18:882][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:883][420]LoadErrors: Error: /Game/Weapon_Pack/Map/Weapons_Kit : Can't find file for asset. /Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay
+[2019.05.04-15.57.18:897][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.18:897][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:937][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated'
+[2019.05.04-15.57.18:937][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:937][420]LoadErrors: Error: /Game/Weapon_Pack/Map/Weapons_Kit : Can't find file for asset. /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated'
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01'
+[2019.05.04-15.57.18:942][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.18:942][420]LoadErrors: Error: /Game/Weapon_Pack/Map/Weapons_Kit : Can't find file for asset. /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01
+[2019.05.04-15.57.19:049][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:049][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.19:049][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01'
+[2019.05.04-15.57.19:049][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01' while loading ../../../../../Unreal Projects/WarpStrikeTutorial/Content/Weapon_Pack/Map/Weapons_Kit.umap.
+[2019.05.04-15.57.19:053][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:053][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2019.05.04-15.57.19:054][420]LogLinker: Warning: Can't find file for asset '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' while loading NULL.
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: StainGlass_Roughness (AutoDXT, 2048X2048)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: StainGlass_Opacity (AutoDXT, 2048X2048)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Window_Trim_Normal (BC5, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Window_Trim_BaseColor (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Stone_Wall_BaseColor (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Weapon_Set2_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Prop_Set3_Normal (BC5, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Prop_Set3_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Wood_Props_BaseColor (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Wood_Props_Normal (BC5, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogTexture: Display: Building textures: T_Wood_Props_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.05.04-15.57.33:182][420]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV_11X11_Noise, compiling. 
+[2019.05.04-15.57.33:203][420]LogMaterial: Display: Missing cached shader map for material M_Spark_VelocityLerp, compiling. 
+[2019.05.04-15.57.33:241][420]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.04-15.57.33:241][420]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.04-15.57.33:241][420]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.04-15.57.33:241][420]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.04-15.57.33:241][420]LogMaterial: Display: Missing cached shader map for material M_HeatDistort, compiling. 
+[2019.05.04-15.57.33:374][420]LogMaterial: Display: Missing cached shader map for material M_FlareRound, compiling. 
+[2019.05.04-15.57.33:397][420]LogMaterial: Display: Missing cached shader map for material M_Wall_Window_Frame2, compiling. 
+[2019.05.04-15.57.33:482][420]LogMaterial: Display: Missing cached shader map for material M_Window_Frames, compiling. 
+[2019.05.04-15.57.38:678][420]LogTexture: Display: Building textures: T_Props1_BaseColor (AutoDXT, 4096X4096)
+[2019.05.04-15.57.38:678][420]LogMaterial: Display: Missing cached shader map for material M_Stone_Wall, compiling. 
+[2019.05.04-15.57.38:699][420]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.05.04-15.57.47:062][420]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.05.04-15.57.47:062][420]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.05.04-15.57.47:062][420]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2019.05.04-15.57.47:062][420]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.05.04-15.57.47:062][420]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2019.05.04-15.57.47:062][420]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.05.04-15.57.47:062][420]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2019.05.04-15.57.47:062][420]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.05.04-15.57.47:062][420]LogMaterial: Display: Missing cached shader map for material M_Props3, compiling. 
+[2019.05.04-15.57.47:090][420]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_2, compiling. 
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 326
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 316
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 306
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 296
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 286
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 276
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.05.04-15.58.02:856][420]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.05.04-15.58.02:856][420]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.02:856][420]LogMaterial: Display: Missing cached shader map for material M_Wood_Props, compiling. 
+[2019.05.04-15.58.03:042][420]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.03:042][420]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.03:042][420]LogTexture: Display: Building textures: T_Banners_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.04-15.58.04:039][420]LogShaderCompilers: Display: Shaders left to compile 247
+[2019.05.04-15.58.04:039][420]LogTexture: Display: Building textures: T_Banners_Normal (BC5, 2048X2048)
+[2019.05.04-15.58.04:832][420]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.04:832][420]LogTexture: Display: Building textures: T_Banner_Normal (BC5, 2048X2048)
+[2019.05.04-15.58.05:341][420]LogMaterial: Display: Missing cached shader map for material M_Banners, compiling. 
+[2019.05.04-15.58.05:371][420]LogShaderCompilers: Display: Shaders left to compile 237
+[2019.05.04-15.58.05:371][420]LogMaterial: Display: Missing cached shader map for material M_Props2, compiling. 
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 64X64)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 289
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 279
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 269
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 259
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 249
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 239
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 229
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogShaderCompilers: Display: Shaders left to compile 219
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:458][420]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogShaderCompilers: Display: Shaders left to compile 209
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.D60055B2431FFF0E3CBFF98747AAEECE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.D60055B2431FFF0E3CBFF98747AAEECE!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.B765FB8441E0F0A1A8E2DDBF041D7A0D (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.B765FB8441E0F0A1A8E2DDBF041D7A0D!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7676BD5B420F51BF06F9F8A48258CA20__F83A8294B7D7008E2D43C884EF0DFA5051E8E428.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.78975BC34106F80F12CA51AEA6FAAB24 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.78975BC34106F80F12CA51AEA6FAAB24!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.CED688E848168519A8FF8E9F52FA234B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.CED688E848168519A8FF8E9F52FA234B!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7676BD5B420F51BF06F9F8A48258CA20__11E90FC1011A2979B36C1DCC024124F0222C5369.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/temp.7AB0247743A4A901AF02F3BB6C5EC459 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/temp.7AB0247743A4A901AF02F3BB6C5EC459!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/temp.D2EDCC91465C7BBBBB0492A9CE1320AD (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/temp.D2EDCC91465C7BBBBB0492A9CE1320AD!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F2990DDF4B292CA50A0D918844C8C26C__5652D4BAD345F21645A05062CC6A708670635744.
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogShaderCompilers: Display: Shaders left to compile 199
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/temp.9297434D4B7498D45E40B49B8AE4ADCE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/temp.9297434D4B7498D45E40B49B8AE4ADCE!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/temp.9C398DCB4E10F8375085F2855534691B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/temp.9C398DCB4E10F8375085F2855534691B!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/temp.22685BEC42277FBEFEDA969D002A7B40 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/temp.22685BEC42277FBEFEDA969D002A7B40!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9628A301478D463580437E81320C2AE4__4E5B244DC993340E9EE1405124577435BD4BE59A.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/temp.0DDDEFC34414E04F6464F3AB362C1ADC (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.8F26F2C9449626D9F950FE8B271CC50E (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/temp.0DDDEFC34414E04F6464F3AB362C1ADC!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.8F26F2C9449626D9F950FE8B271CC50E!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9628A301478D463580437E81320C2AE4__EBCFC243732101012EB993E87E4AD8043652662E.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.59B18C8B4C7061C59C5505B78C2B33B8 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.59B18C8B4C7061C59C5505B78C2B33B8!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9628A301478D463580437E81320C2AE4__2B48AC5FD82E04ECD91F4D8C68786A1D9D3256E5.
+[2019.05.04-15.58.21:459][420]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.26BF78CF4D88F51B4DF8FDB6D43497F9!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.19C863654A4B177BAAF9ED9BADF169CB (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.19C863654A4B177BAAF9ED9BADF169CB!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.9385D4B44B81977902B67B8E7A423671!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__CD698A6ACC9DD4ECB18889DDB23769479B4FDCD8.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/temp.FB52C6994CF15FA1719D31BBE256E034 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/temp.FB52C6994CF15FA1719D31BBE256E034!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/temp.1C599BAC46A46387E8E19CA719EFEA19 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/temp.1C599BAC46A46387E8E19CA719EFEA19!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.8178C4F7453E289E52EE1A83FB0B1A84 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.8178C4F7453E289E52EE1A83FB0B1A84!
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__C92A86DD742DEB894D200DEC4FC039127AFBC675.
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__DA590AA672B5B39268F6B8CE168BA4A335D7C2DF.
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/temp.93F8661E4DF77040CF4C9CB6346A4EFA (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/temp.93F8661E4DF77040CF4C9CB6346A4EFA!
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/temp.B606EA874AD2BE7ACDABDDA42D9370A0 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:459][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/temp.76AF89694D0EDEE523EF21B6CA56E733 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/temp.B606EA874AD2BE7ACDABDDA42D9370A0!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/temp.76AF89694D0EDEE523EF21B6CA56E733!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__1B821E55A4341406388E07C77272286F921EFE00.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/temp.2572F5DE4AC8E7AB6ED05EB832759580 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/temp.2572F5DE4AC8E7AB6ED05EB832759580!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/temp.98192A8B41F2AC6B5CC0C5BCA94BE156 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/temp.98192A8B41F2AC6B5CC0C5BCA94BE156!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/temp.F6DCB02A4E29D3D33A9AACA2C0229234 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/temp.F6DCB02A4E29D3D33A9AACA2C0229234!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__D76F63E8A4304AABB3DB7F9C619F84AA9EEC5129.
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25DD63CB4D1A6AFBEBD9039A7594B74C__7B1D805AFC2A2E19FA6F768E6452C976E38E4D29.
+[2019.05.04-15.58.21:460][420]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/temp.CB1213924192D365F99C07B2902FD7E0 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/temp.CB1213924192D365F99C07B2902FD7E0!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.D70E6A6C493273758EC07B949609366A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.D70E6A6C493273758EC07B949609366A!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/temp.D1BAC8D9488847693337D6BBF60F7D74 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/temp.D1BAC8D9488847693337D6BBF60F7D74!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AB6F159543A60E874758F599DBB64D74__72057AD0630A1788F4E56E4E0FAB19987CABC7D3.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/temp.C08408494C45E29587D6F68397EB8AD9 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/temp.C08408494C45E29587D6F68397EB8AD9!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/temp.F134DA5A42EA221F300281B4B288392A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/temp.F134DA5A42EA221F300281B4B288392A!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AB6F159543A60E874758F599DBB64D74__6CB94015358891159645FE2E28C4769371A95696.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.EB3948D84CA09BF42DA623875272B0B0 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.EB3948D84CA09BF42DA623875272B0B0!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/temp.5B3A948B4EB55FEE4A39BABBE4E1BA00 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AB6F159543A60E874758F599DBB64D74__ACA1AFAB5419BFEF61D3E2FB101DA16835A36D6F.
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/temp.5B3A948B4EB55FEE4A39BABBE4E1BA00!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/temp.605E50BB46D5E979CE0DADA82EB733FE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/temp.605E50BB46D5E979CE0DADA82EB733FE!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AB6F159543A60E874758F599DBB64D74__58914A0CEA31399EF7C999668BAAE1058B56DDC1.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/temp.6DD0DFFD4D53824463EFEF9214A944A6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/temp.6DD0DFFD4D53824463EFEF9214A944A6!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/temp.539287E04DBEDB174E02EEA1E23DA77B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/temp.539287E04DBEDB174E02EEA1E23DA77B!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AB6F159543A60E874758F599DBB64D74__92484635752E72A2F4C05998BA2CF2C506BC0D35.
+[2019.05.04-15.58.21:460][420]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/temp.FF5F89254787940BD790B8AA3BD269F4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/temp.FF5F89254787940BD790B8AA3BD269F4!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/temp.9BBCC35E4C568582EA994F853A8D8B6A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/temp.9BBCC35E4C568582EA994F853A8D8B6A!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__D7B838A0B0282A21D3CC080B24D9664F4CFCAC45.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/temp.AFAE8B8E43E20C84733C99A05A08BB56 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/temp.AFAE8B8E43E20C84733C99A05A08BB56!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/temp.7960ED62491DF52283E09B84DCAB3CEA (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/temp.7960ED62491DF52283E09B84DCAB3CEA!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__5149E595015DEA094705FC34F2D4D48381D01D21.
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/temp.E15FB7A4413DA591CB0055AD1B69D050!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/temp.94A1C00A41ED4B72DA4F1F9095233D06!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__D40407C3E1D65F0A899E554FE2124FBAC6B50CB2.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.D972259E4DABE6D5C29392BF678B6F9C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.D972259E4DABE6D5C29392BF678B6F9C!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.366642FE495DC520CF98B58D76A3FCCB (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.366642FE495DC520CF98B58D76A3FCCB!
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__55B79676C7E0D61F8C25F95C6B0C75F424D56893.
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/temp.68D46EB242BF918125C969BF6AE154CA (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/temp.68D46EB242BF918125C969BF6AE154CA!
+[2019.05.04-15.58.21:460][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/temp.DEEC1E42452F5EE74BE02A80DE4AE521 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:460][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/temp.DEEC1E42452F5EE74BE02A80DE4AE521!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__EBFDBDD73A25B624016DA49E805362C9986EECE8.
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.11B304B44377BAF49E9B7AAEE8C9AAD2 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.11B304B44377BAF49E9B7AAEE8C9AAD2!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.E3ADDAA3460A7F40CACF119D0DF15DF4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.E3ADDAA3460A7F40CACF119D0DF15DF4!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_D1B9071F4422F93ECD1E1D85E4F52968__3E647FA0799C1A87F4BF67341EE3A69EC89EE6FD.
+[2019.05.04-15.58.21:461][420]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.EB78C680462E2AC63C4134A9E24492EE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.EB78C680462E2AC63C4134A9E24492EE!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.ACF897CA4A3D0DBCFEB4EFA32C336191 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.ACF897CA4A3D0DBCFEB4EFA32C336191!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.827ADC584AD03740A93EE38E96A1C5BF (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.827ADC584AD03740A93EE38E96A1C5BF!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__5A919B6C60D37A7D04CF22CAB68B6A7D41C5B0D4.
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.2B069EA24B5AD39BAD4E958C039C61D6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.2B069EA24B5AD39BAD4E958C039C61D6!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.68B158134DD9E46B260427923C70A7E4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.68B158134DD9E46B260427923C70A7E4!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.09957E7F4D5156D52C596DA1AA925078 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__C784EE02EDFBADCA52673DD2CBB1443A7877DE01.
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.09957E7F4D5156D52C596DA1AA925078!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__2E4525A0640D810EFA08A7F4DD725C5C6F05AF42.
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/temp.F04894594CEDD41D3220ABBDA65B4804 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/temp.F04894594CEDD41D3220ABBDA65B4804!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/temp.6F09F48649B2006551DC658D27AE61EC (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/temp.6F09F48649B2006551DC658D27AE61EC!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/temp.8142837F4D45C2252A3ACCA6FB64D5C5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/temp.8142837F4D45C2252A3ACCA6FB64D5C5!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/temp.B3F826B14F9FEA11A2866DB982C05872 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__AEC2B2DBCD7E0DF5B3FF379EBA0C0245848A1485.
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/temp.B3F826B14F9FEA11A2866DB982C05872!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__25C0E8535EDDF571A9615D3C335B46E9474F9F58.
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.BC9724504B8F337C3A60CCAE4B3BBF0C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.BC9724504B8F337C3A60CCAE4B3BBF0C!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.72C3B947495F40B78EB4409CA63E726A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/temp.72C3B947495F40B78EB4409CA63E726A!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_17B05FD04ABF1BD71DFA5689E8C970AB__62865E155C480498A70435D19A4792CD48D4419B.
+[2019.05.04-15.58.21:461][420]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/temp.FAE3E73B4A7B73CCBC5C0EB0D728C79D (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/temp.DCB949CF45CF61991A710883D03FEEE5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/temp.FAE3E73B4A7B73CCBC5C0EB0D728C79D!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/temp.DCB949CF45CF61991A710883D03FEEE5!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/temp.872EBA7C44AD6E60EA0DD69B998B4A50 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/temp.872EBA7C44AD6E60EA0DD69B998B4A50!
+[2019.05.04-15.58.21:461][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/temp.A52BC23D437813A03AEA248D12489E24 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CB519D5A4E91958BAA2CE5B5C9CFFBC1__155C1974BEA1891FFF4D8A607C7E0AFA5161514E.
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/temp.A52BC23D437813A03AEA248D12489E24!
+[2019.05.04-15.58.21:461][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CB519D5A4E91958BAA2CE5B5C9CFFBC1__1C086EE84F3A8356DA1869722A0508B22D72C600.
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/temp.09552CD04346C194603D99890D897EBA (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/temp.09552CD04346C194603D99890D897EBA!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/temp.5F17130546A279C284C51DB837579E5D (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/temp.5F17130546A279C284C51DB837579E5D!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/temp.7004F46F42E57CC587A9DFA41980EA94 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/temp.7004F46F42E57CC587A9DFA41980EA94!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/temp.886E67114F508140E0676FB821C2FBB6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/temp.886E67114F508140E0676FB821C2FBB6!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CB519D5A4E91958BAA2CE5B5C9CFFBC1__106D338B16E233C617CB710DA037043185026E14.
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CB519D5A4E91958BAA2CE5B5C9CFFBC1__C7E210F326D2AC5961CAF1B3888F411A3AB339ED.
+[2019.05.04-15.58.21:462][420]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:462][420]LogShaderCompilers: Display: Shaders left to compile 189
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/temp.F5D095EE4AA75E39AF2730B59CD89E9B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/temp.F5D095EE4AA75E39AF2730B59CD89E9B!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/temp.EC2EC39242443BAD35E2D592102B9262 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/temp.EC2EC39242443BAD35E2D592102B9262!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_255E3C3B45DDE008DEC14F9E235052C0__09390584B18456556ED9A3F9C111E55A429F5580.
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/temp.A4E77F9D49C66CEB268AC68B4FE7417A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/temp.A4E77F9D49C66CEB268AC68B4FE7417A!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/temp.6785EB204C22A0473BCAC1BEA770280F (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/temp.6785EB204C22A0473BCAC1BEA770280F!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/temp.B72550BB405B1071998846B1951CABC2 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/temp.B72550BB405B1071998846B1951CABC2!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/temp.B507C32F4A02117A148B49ADA86A4F62 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/temp.B507C32F4A02117A148B49ADA86A4F62!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_255E3C3B45DDE008DEC14F9E235052C0__26AC04F36175BC139220EC209582A721C7D76D0B.
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_255E3C3B45DDE008DEC14F9E235052C0__BB88E0F2996DE26A0EA2168F3AC4104E679D3684.
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/temp.3C347F5747E7D216659B11B43F7E7994 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/temp.3C347F5747E7D216659B11B43F7E7994!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/temp.7A966EAC4B3273FC83724A8FA20B6478 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/temp.7A966EAC4B3273FC83724A8FA20B6478!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_255E3C3B45DDE008DEC14F9E235052C0__86F8D1455AC9E67F0077BD3C38EB58F40FAECEDD.
+[2019.05.04-15.58.21:462][420]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/temp.E9ED596E496C1B7EBC63C78A23028E7B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/temp.E9ED596E496C1B7EBC63C78A23028E7B!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/temp.686DA552420ACE3A0A1A328EC189B237 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/temp.686DA552420ACE3A0A1A328EC189B237!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/temp.12650E794D397E5AC17721A6ADD91668 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/temp.12650E794D397E5AC17721A6ADD91668!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__BCACD8450466D3B9747A095DBF016EA4342CB00A.
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/temp.EC8CC73149F7D3597870188EF11D15A6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/temp.EC8CC73149F7D3597870188EF11D15A6!
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/temp.FDE9042643727CE0C32C03B949AC296A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/temp.5283F03541EF4CEA1028C3B46373F2B0 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/temp.FDE9042643727CE0C32C03B949AC296A!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/temp.5283F03541EF4CEA1028C3B46373F2B0!
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__48867214F8B557049F6096F7C0A5FBD040CA55CA.
+[2019.05.04-15.58.21:462][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__491EF6E736A2595726C959DDBC31A9EA862FD563.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.10FA6E6A42533471864C58A1911F7E26 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.10FA6E6A42533471864C58A1911F7E26!
+[2019.05.04-15.58.21:463][420]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 64X64)
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.99B28AAD476C011B88E9AFADB2D84C67 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.99B28AAD476C011B88E9AFADB2D84C67!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/temp.2A5CC2CC455FF5C4E9E9C89C266A6B86 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__69E7DCFEA5571325535A91E2452D5880AB84B835.
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/temp.2A5CC2CC455FF5C4E9E9C89C266A6B86!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/temp.AA1C6237494FEC274F362DA559F8968F (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/temp.AA1C6237494FEC274F362DA559F8968F!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/temp.4E6BFC4D4C88B7C0EB0D06A29C1AFE52 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/temp.4E6BFC4D4C88B7C0EB0D06A29C1AFE52!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__23655B1DFD40EF4EAC6861CBBD6CC1793FE70B54.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/temp.FFD3950942F6304FB1C5C09D4A2A2D00 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/temp.FFD3950942F6304FB1C5C09D4A2A2D00!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_64D6696346C49776DB0910BEC3BA2B6E__9C4C6682AAD29D13811C47482C5D41121CE6C953.
+[2019.05.04-15.58.21:463][420]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/temp.628579AB45224F296E9413B9D0C70522 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/temp.628579AB45224F296E9413B9D0C70522!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/temp.901673D54A8D324FB5F59F84F37AC090 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/temp.901673D54A8D324FB5F59F84F37AC090!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/temp.6893198C449F5BE53AE10F9088D45377 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/temp.6893198C449F5BE53AE10F9088D45377!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_410989A9454A4915A5EB80808F06E2F4__37F45F69EF0E94ED8262F331CAC59C59741313D5.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/temp.28B19A984B65BECAB7D8A7BBE5EC9109 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/temp.28B19A984B65BECAB7D8A7BBE5EC9109!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_410989A9454A4915A5EB80808F06E2F4__817C12B0E88CE14176CEF8F044B380205B5830F4.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/temp.C754A0764880559FFD64578A77AAC49A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/temp.C754A0764880559FFD64578A77AAC49A!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/temp.6BD5D9744D9E5F0DE11C689CF4E229D5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/temp.6BD5D9744D9E5F0DE11C689CF4E229D5!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/temp.E479F71A44F0806938CDD79189451791 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/temp.E479F71A44F0806938CDD79189451791!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_AE22318245FD3FF31FE09288BDE74__5DC93CB2831380BAABAF5818753D927CA7C16942.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/temp.6ED5A5784CFEA4F0BC021EBA3F2CAD40 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/temp.6ED5A5784CFEA4F0BC021EBA3F2CAD40!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/temp.837339E34F084C6DAE1F199D828EB7B2 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/temp.837339E34F084C6DAE1F199D828EB7B2!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/temp.1E257D7044E2A972F64A9DBEE1717874 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/temp.1E257D7044E2A972F64A9DBEE1717874!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_AE22318245FD3FF31FE09288BDE74__A7B5C01CCF374DB08CCAB5187AB98BC82341B2FC.
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_AE22318245FD3FF31FE09288BDE74__4D178C76062DB6919846F557DEB0DB322BD129FC.
+[2019.05.04-15.58.21:463][420]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:463][420]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:463][420]LogShaderCompilers: Display: Shaders left to compile 179
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/temp.4AC30BC2433D5FF8D4FCFD9189417E08 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/temp.4AC30BC2433D5FF8D4FCFD9189417E08!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/temp.4DA238DB488C8C6A8C954892B75B04B8 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/temp.4DA238DB488C8C6A8C954892B75B04B8!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_61F121464F61C397973F4695A7AFCD06__EE82F54D5D3436E07075439412382FCD2393EBE4.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/temp.DF86EB684D540607663D60BFBFB8B546 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/temp.DF86EB684D540607663D60BFBFB8B546!
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/temp.86CCD53841F9968D48DDD4840AADFCD5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/temp.86CCD53841F9968D48DDD4840AADFCD5!
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_61F121464F61C397973F4695A7AFCD06__80A8EB9BCAFF033B6A60EAF995F0327E10EDBA65.
+[2019.05.04-15.58.21:463][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/temp.8F616FE342566F6793E5E59D113EDB10 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:463][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/temp.8F616FE342566F6793E5E59D113EDB10!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/temp.8A238CEE4D54966B87849396E4297B43 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/temp.8A238CEE4D54966B87849396E4297B43!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_61F121464F61C397973F4695A7AFCD06__B05DE8D6CF0CE278C91F2C4EFE96AF22B71E5B7B.
+[2019.05.04-15.58.21:464][420]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/temp.9B621DEE449E2EBFE6DA8EA8759CD768 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/temp.9B621DEE449E2EBFE6DA8EA8759CD768!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/temp.05697A9D4E5F649DBA52AA998BBE886C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/temp.05697A9D4E5F649DBA52AA998BBE886C!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9628A301478D463580437E81320C2AE4__1717CE98124F6A908A045865EF726D74A1E49282.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/temp.2A118B024515F959626CB2A64991EE94 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/temp.2A118B024515F959626CB2A64991EE94!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/temp.4DF599B54489019E81223C93E709CA0B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/temp.4DF599B54489019E81223C93E709CA0B!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9628A301478D463580437E81320C2AE4__5E55930341DB076ECEAE985CC9370E8541DE7B07.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/temp.FE327ABF4AEE2B84CCAA0D8512421D91 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/temp.FE327ABF4AEE2B84CCAA0D8512421D91!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/temp.2983D35A42D757C7E4293296F4DACF02 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/temp.2983D35A42D757C7E4293296F4DACF02!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CB519D5A4E91958BAA2CE5B5C9CFFBC1__B2C7F44C299CEF93AA97DAD72EC589B128FED212.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/temp.6241673B40D8511B50D584AD3DF141FD (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/temp.6241673B40D8511B50D584AD3DF141FD!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/temp.81F8684E4A93288D96351980E673D1CB (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/temp.81F8684E4A93288D96351980E673D1CB!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/temp.0EB7C06141A7BEAB51202C8455C2DD15 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/temp.0EB7C06141A7BEAB51202C8455C2DD15!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CA3E596442B871F9A28B2089DA4704CA__24FDCF0AB7159C4CCE92E772E8DA9F8281960D44.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/temp.FBE454EC4566A5A4C052419907D551D2 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/temp.FBE454EC4566A5A4C052419907D551D2!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CA3E596442B871F9A28B2089DA4704CA__69353BA44BBA6A18606E7F7A9E7177E38817D606.
+[2019.05.04-15.58.21:464][420]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/temp.B54E4BD14E864489D58EFEB0DB2699AE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/temp.FD81F0374800E483A131258D8BDA5FD4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/temp.FD81F0374800E483A131258D8BDA5FD4!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/temp.B54E4BD14E864489D58EFEB0DB2699AE!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/temp.45DDAD2B4938BE807FC2DBBEFBA32A6A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/temp.45DDAD2B4938BE807FC2DBBEFBA32A6A!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__52F55397994DFED6F1FD5E8704B04FC417C582B2.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/temp.A5E540BE45FFD6DDE9359DABE515193A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/temp.A5E540BE45FFD6DDE9359DABE515193A!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__2D3B421FF5976F04F348427676394049454DBE0E.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.5044C6BC4C7DFDE40A27FA80AF937E80 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.5044C6BC4C7DFDE40A27FA80AF937E80!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/temp.EAA485834821D1E9E3B2F49B76A83E87 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/temp.EAA485834821D1E9E3B2F49B76A83E87!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.18B8DA0C485D3614E29522B29E5B5CEC (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.18B8DA0C485D3614E29522B29E5B5CEC!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__8677A75F3A899FF062B97CBBB0538424C19CDD09.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/7/temp.12DDD7F843B47D775171218A54699686 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/7/temp.12DDD7F843B47D775171218A54699686!
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/temp.A44728FB49420BB0629F76AAD1A6472E (There is not enough space on the disk.)
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/temp.A44728FB49420BB0629F76AAD1A6472E!
+[2019.05.04-15.58.21:464][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__19BC0547D45DB51F25CE2A7BBE64D184895E580D.
+[2019.05.04-15.58.21:464][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.419B2E394F0E68201FD027AD9E99539D (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.419B2E394F0E68201FD027AD9E99539D!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.781B57F5495E1E877385A99DE5942851 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.781B57F5495E1E877385A99DE5942851!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/7/temp.388291E241C081C7B1847D84FCC6669B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/7/temp.388291E241C081C7B1847D84FCC6669B!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__F1804DB19B3DB24A231C9CCDD32E63C1F14654A4.
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373566644877A5298EA86D8A8BD83C40__F16A557E6B599CE608507246A1589DFB77BA9D54.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/temp.1DFDDB85477A74A5626D83824BA65C2E (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/temp.1DFDDB85477A74A5626D83824BA65C2E!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.1D9871244C920F4B2EF235A1F71DF747 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.1D9871244C920F4B2EF235A1F71DF747!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.AE489D7C4CA3A2A08DFF9690F043D3A6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/temp.AE489D7C4CA3A2A08DFF9690F043D3A6!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__0BDA00F012F0BD035BEAB8196EC403187D9069C8.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/temp.0615563A40C79E4D2FCF5380347C9578 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/temp.0615563A40C79E4D2FCF5380347C9578!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/temp.58A062CF464674A03BCAE79202DF46DF (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/temp.58A062CF464674A03BCAE79202DF46DF!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__87C20C1752A7C65D07A07CF834F558D4146A2EEE.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/temp.43E9A6804AEC4C91B64BEDAD3ECBEF8C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.595345984E5D9472D23E2F81437D42A0 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.595345984E5D9472D23E2F81437D42A0!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/temp.43E9A6804AEC4C91B64BEDAD3ECBEF8C!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__0748CCC0A82C6B8BA910F3118CD1D55C0811D037.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.4D10DECA4C347B602DF4C9AB257F3487 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.4D10DECA4C347B602DF4C9AB257F3487!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.08AAF3254EC808F8EB536EA07D7D8096 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.08AAF3254EC808F8EB536EA07D7D8096!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__8B76B91538E5599537BF5DAAE27C933DC55C3E77.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.3806776B469F232DC2423AAC848E80A8 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/temp.E37803914AA8683000B379B474AB9C3F (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/temp.E37803914AA8683000B379B474AB9C3F!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.3806776B469F232DC2423AAC848E80A8!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__6AF91AAC441EE26C8E13120666C503A2DAD86ACD.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/temp.D2660C9644FF8888C8AA838C6E7C298F (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/temp.D2660C9644FF8888C8AA838C6E7C298F!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_F728B2A8406BD54CFC49E6B91CBC8D33__3D71374CCC2E2C39D93045F3B19CB20786B200E7.
+[2019.05.04-15.58.21:465][420]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/temp.D48ED0F04B20AE967D07ADA2317FD131 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/temp.D48ED0F04B20AE967D07ADA2317FD131!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/temp.19827E6A4B2A44F4618633B94BCFFB13 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/temp.19827E6A4B2A44F4618633B94BCFFB13!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__AAB30EE4FE58CA2A8B7FC2907EADB951BF80D54D.
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/8/temp.9070FE0C4C3F2ACE0916AB84F785BE27!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/8/temp.7080C9454938C63AD74F1880A49B0C6D!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__5A51954AF30DF0091A711021126729C67C032B52.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.6411A0B24168C2037807C4B9D6BF235E (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.6411A0B24168C2037807C4B9D6BF235E!
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.748444234EB3E174EF4BC68F2E0C1CD6 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.748444234EB3E174EF4BC68F2E0C1CD6!
+[2019.05.04-15.58.21:465][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__DCAEA42DDC12F0175B0B103FE5E1BEF6A1D4CD1C.
+[2019.05.04-15.58.21:465][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/temp.A5F522384694BBC97982AFB39AF05E16 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/temp.A5F522384694BBC97982AFB39AF05E16!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/temp.EE6A962C414D22A3EFBAD78B1C7AAA33 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/temp.EE6A962C414D22A3EFBAD78B1C7AAA33!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__2B2D0EC32656535695F674643715861F214EE579.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/temp.BEDF02DF44D91E85EA20BEBCD521257B (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/temp.BEDF02DF44D91E85EA20BEBCD521257B!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/temp.135BE9834476EE3B192B04B00B1F3D90 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/temp.135BE9834476EE3B192B04B00B1F3D90!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__BB28C36FD793A88BE601081EFC5427E1CFC00D42.
+[2019.05.04-15.58.21:466][420]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/temp.191EE43E47CF14B7798C15884287E63C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/temp.191EE43E47CF14B7798C15884287E63C!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/temp.9DB91A484E50700C7058AAAE09DA4C40 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/temp.9DB91A484E50700C7058AAAE09DA4C40!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__A5B75DC92CD7B7CC59857ED35E745E84D7561D1E.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/temp.5820FA0E4AE127C4E8374D9A55B1A1F5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/temp.5820FA0E4AE127C4E8374D9A55B1A1F5!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/temp.E95FD30C4E30532FC2A8E0B1FEC66790 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/temp.E95FD30C4E30532FC2A8E0B1FEC66790!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__701BF5E9F3945B63671DDEF1FDC377512F11C8F6.
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.85AC950F42AD199B87220BBD806D3355!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.CC07CD63429F9B9D6EA17CA939E91641!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__A13E26FFA935974653DAC11DD9D7C5E5F1D4FD95.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.B80349C14775D20B09509ABF40572B77 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.B80349C14775D20B09509ABF40572B77!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.6A2D1384428E484D97EFCF949B23281C (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/temp.6A2D1384428E484D97EFCF949B23281C!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__F5B37F318D539D3EA156F3B4E0F77E6C565AA01C.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/temp.CDAAE9A747F22A60112F92ACE71F52C4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/temp.CDAAE9A747F22A60112F92ACE71F52C4!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/temp.E6955EC1448F499560F2AFB7E158FDB5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/temp.E6955EC1448F499560F2AFB7E158FDB5!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__58C381D5C750CE6AC41E185DDCD1F5B35CAAA93F.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.AF1B0DAE451CC5557D019AB85C896684 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.AF1B0DAE451CC5557D019AB85C896684!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/temp.B21FCCE84AC2CF59815168BCA806A4BF (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/temp.B21FCCE84AC2CF59815168BCA806A4BF!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/temp.96D5E6064E370A02EF6F3699F50BC4CD (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/temp.96D5E6064E370A02EF6F3699F50BC4CD!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7A956A584BAD4FDD93B4D5A464651DD7__C7CDF72E9C347B8738467F0507214F78EEA637DA.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.0B779FD9425F997DDE62E395461282E5 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.0B779FD9425F997DDE62E395461282E5!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_E2EB618E4CFD80AFECB60790ECCDFA96__46061FC0C9BFFB6B80F4949D06B8A3EF1C940189.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.B45C9C724572D8D5182FBDB4FB0C0F9A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.B45C9C724572D8D5182FBDB4FB0C0F9A!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.160CF8AC4915738A6E57AA8EECD67C8F (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/temp.160CF8AC4915738A6E57AA8EECD67C8F!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5C7E39DA43E68E1DE5FD90AF7E7B843E__BC4F8AB3864C81F2A3D179A3BFC73D7D6A24E29A.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/temp.000E56A048DCB783466D9989D673435A (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/temp.000E56A048DCB783466D9989D673435A!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/temp.063D1E06480B137EBCFADE9B6B584D80 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/temp.063D1E06480B137EBCFADE9B6B584D80!
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/temp.44786BA5448E13B8CFD92B912C0F4898 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/temp.44786BA5448E13B8CFD92B912C0F4898!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0FCA364947E36102C2E59F964BB2E368__8A3907A6D7EB29D96FD78810BA534BF395D4AE48.
+[2019.05.04-15.58.21:466][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/temp.9948A7FF49D5484EAEECC1AC86222CBA (There is not enough space on the disk.)
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/temp.9948A7FF49D5484EAEECC1AC86222CBA!
+[2019.05.04-15.58.21:466][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0FCA364947E36102C2E59F964BB2E368__BD79142EC956B31AF88E081E008F2E617F6BEE24.
+[2019.05.04-15.58.21:467][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.23D142A3478004397D9E3392585087BC (There is not enough space on the disk.)
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.23D142A3478004397D9E3392585087BC!
+[2019.05.04-15.58.21:467][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.4CDA818F474126E8574302A69AFC48FE (There is not enough space on the disk.)
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.4CDA818F474126E8574302A69AFC48FE!
+[2019.05.04-15.58.21:467][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.56B80FAC4D85A75AC235069FE56FBEC4 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/temp.56B80FAC4D85A75AC235069FE56FBEC4!
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_6687863D449D0FF3EE5F138D5FA5B__0D359AE8A7195034E739E06BAA8B1E56402E51ED.
+[2019.05.04-15.58.21:467][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.B21A7CA74059B65EC6D9B581378DB6C3 (There is not enough space on the disk.)
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.B21A7CA74059B65EC6D9B581378DB6C3!
+[2019.05.04-15.58.21:467][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.F180EDF142AFAEBB8A3B6C954A87BE6D (There is not enough space on the disk.)
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.F180EDF142AFAEBB8A3B6C954A87BE6D!
+[2019.05.04-15.58.21:467][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_6687863D449D0FF3EE5F138D5FA5B__B307C3000C7EA606C03E17945BD8D8995DEA4315.
+[2019.05.04-15.58.21:467][420]LogMaterial: Display: Missing cached shader map for material M_Props1, compiling. 
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.6AE4F4C9451819527DD33CB8C679C2C5 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.6AE4F4C9451819527DD33CB8C679C2C5!
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_6687863D449D0FF3EE5F138D5FA5B__0A51942D8091DFA8A97563977D2DB444F25B82F9.
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.0885185F416B89F14F3F6EB68F4615C8 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.0885185F416B89F14F3F6EB68F4615C8!
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.31BD0A7143FA5D5448102E91E8690AB5 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.31BD0A7143FA5D5448102E91E8690AB5!
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CA3E596442B871F9A28B2089DA4704CA__5D00B0F324ABE094B7B03E8CCAD81CD8D08C1CB0.
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/temp.F34837B7451800051E10E2BB923D48A9 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/temp.F34837B7451800051E10E2BB923D48A9!
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/temp.1410B73C4FE6C9796CB95D918040E5A1 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/temp.1410B73C4FE6C9796CB95D918040E5A1!
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CA3E596442B871F9A28B2089DA4704CA__8452E429A69F2DEF3A257A51585476B758AF3DA6.
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/temp.D5DB00E34CA10513628817B208F8907E (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/temp.D5DB00E34CA10513628817B208F8907E!
+[2019.05.04-15.58.31:667][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/temp.D29EC60945FE705ABA5C748CDF02957D (There is not enough space on the disk.)
+[2019.05.04-15.58.31:667][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/temp.D29EC60945FE705ABA5C748CDF02957D!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0736C6AC47C86AC25971D08B21F551D7__B0BCB435EA3DC23471ACCC90F242888B89F30885.
+[2019.05.04-15.58.31:668][420]LogTexture: Display: Building textures: T_Stone_Wall_Trim_BaseColor (AutoDXT, 4096X4096)
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/temp.1B8177CF4738C7E568B8A2872FD65721 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/temp.1B8177CF4738C7E568B8A2872FD65721!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/temp.444CC48943914EF6F3707EAED97D248D (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/temp.444CC48943914EF6F3707EAED97D248D!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/temp.15D5ADE6445020458FEAB899664DF821 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/temp.15D5ADE6445020458FEAB899664DF821!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0736C6AC47C86AC25971D08B21F551D7__8D89E9EFDD04285C3A24FF6F913E89F36FDC313C.
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/temp.9312C50B436C0E07FAC99ABA35F9ECFE (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/temp.9312C50B436C0E07FAC99ABA35F9ECFE!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0736C6AC47C86AC25971D08B21F551D7__5C5221937FBCE7E6111D22064E8055B8E266EB34.
+[2019.05.04-15.58.31:668][420]LogTexture: Display: Building textures: T_Stone_Wall_Trim_Normal (BC5, 4096X4096)
+[2019.05.04-15.58.31:668][420]LogTexture: Display: Building textures: T_Stone_Wall_Trim_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.05.04-15.58.31:668][420]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.05.04-15.58.31:668][420]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/temp.137250D64A5E9A4D91A711BAD344EA86 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/temp.137250D64A5E9A4D91A711BAD344EA86!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/temp.958ADFF340C8B35CD62D699871C05395 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/temp.958ADFF340C8B35CD62D699871C05395!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_0CB4F0A84C814558416A069555F0BF33___DE046F8D30AFAF6FE45CC2AB36AF216E3BB0C777.
+[2019.05.04-15.58.31:668][420]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/temp.90DB06ED49DD994A19B5A19019E2B986 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/temp.90DB06ED49DD994A19B5A19019E2B986!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/temp.CE35C713455F5055875E3B9E7F4F8A6D (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/temp.CE35C713455F5055875E3B9E7F4F8A6D!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_0CB4F0A84C814558416A069555F0BF33___C2315D0EE0545D86315B0B8ACEA3933F0C6B4CB5.
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.A4B6FC874A312AB2C285ABA373C21143 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.A4B6FC874A312AB2C285ABA373C21143!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.C965BB7A4BF65709AA25EDBE5746541C (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.C965BB7A4BF65709AA25EDBE5746541C!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_0CB4F0A84C814558416A069555F0BF33___261C1906FE479E39DB5685D8828F2E90E5E83632.
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/temp.1F3636484BE067D11ABA62BCCFBE3A98 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/temp.1F3636484BE067D11ABA62BCCFBE3A98!
+[2019.05.04-15.58.31:668][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/temp.80BACE484C3029B69A6794A0B646FA24 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/temp.80BACE484C3029B69A6794A0B646FA24!
+[2019.05.04-15.58.31:668][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_0CB4F0A84C814558416A069555F0BF33___CF30C78F9C28B6ADAC62D1252890480CFDE71ECA.
+[2019.05.04-15.58.31:669][420]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.05.04-15.58.31:669][420]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.05.04-15.58.31:669][420]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/temp.58CCE5CB44F3A8A447D11C8F3406EFF4 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/temp.58CCE5CB44F3A8A447D11C8F3406EFF4!
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.8B34000D4EEDF79EBC0C4FB33002359A (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.8B34000D4EEDF79EBC0C4FB33002359A!
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/temp.179FD2EA4B0B7B6FDF45D38DEBA52DEA (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/temp.179FD2EA4B0B7B6FDF45D38DEBA52DEA!
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/temp.5D3D249649E8EA3DECC85D8F4BE37B90 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/temp.5D3D249649E8EA3DECC85D8F4BE37B90!
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_200D07A340906E21671764B31D984__9E4F20279E49552DEF5973FF454C17BDC05AA036.
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/temp.779BD2284DEE3925DD2F6787794FE5C3 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/temp.779BD2284DEE3925DD2F6787794FE5C3!
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_200D07A340906E21671764B31D984__F94CB19AC8842E152BA5123D1EF875CDAB818035.
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.702CA5BE47D14AEFBD5EC497EE66003C (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.702CA5BE47D14AEFBD5EC497EE66003C!
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_200D07A340906E21671764B31D984__74573551758B042805A852D30F2249BE909BA6E4.
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/temp.8A43AAC04FF8F91AC10CDD80D3A28B38 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/temp.8A43AAC04FF8F91AC10CDD80D3A28B38!
+[2019.05.04-15.58.31:669][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.E875D16D4B2444909D4500997538284A (There is not enough space on the disk.)
+[2019.05.04-15.58.31:669][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.E875D16D4B2444909D4500997538284A!
+[2019.05.04-15.58.31:669][420]LogMaterial: Display: Missing cached shader map for material M_Stone_Wall_Trim, compiling. 
+[2019.05.04-15.58.31:708][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/temp.D0234302453A95F97B9CAF95363BC230 (There is not enough space on the disk.)
+[2019.05.04-15.58.31:709][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/temp.D0234302453A95F97B9CAF95363BC230!
+[2019.05.04-15.58.31:709][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_A1190BE740A5E3FEAECC59A41778B__149E6567701DAD29FF76BBFF1CE1D65BB86C3767.
+[2019.05.04-15.58.31:709][420]LogFileManager: Error: Error writing to file: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.170F97FD40D215D1DEF79AA7D9EA062C (There is not enough space on the disk.)
+[2019.05.04-15.58.31:709][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.170F97FD40D215D1DEF79AA7D9EA062C!
+[2019.05.04-15.58.31:709][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_A1190BE740A5E3FEAECC59A41778B__F3FF553F6AA2786D245DD7D46F9B1ECF9C6BB8C6.
+[2019.05.04-15.58.31:709][420]LogMaterial: Display: Missing cached shader map for material M_Wall_Window_Frame1, compiling. 
+[2019.05.04-15.58.31:763][420]LogMaterial: Display: Missing cached shader map for material M_Stained_Glass, compiling. 
+[2019.05.04-15.58.31:825][420]LogAIModule: Creating AISystem for world Weapons_Kit
+[2019.05.04-15.58.32:322][420]LogShaderCompilers: Display: Shaders left to compile 245
+[2019.05.04-15.58.32:944][420]LogShaderCompilers: Display: Shaders left to compile 235
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogFileManager: Error: Error flushing file: C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/C6431DDD41324A62308A77AF52E7D3F6/36A1040AC4D3248CDBCB8B797756936D4 (There is not enough space on the disk.)
+[2019.05.04-15.58.32:945][420]LogWindows: Windows GetLastError: The operation completed successfully. (0)
